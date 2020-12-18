@@ -75,26 +75,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07173e23-5439-4dc3-992c-5e49f714f92a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/SecurityServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/impl/SecurityServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/impl/UserDetailsServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/web/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/java/com/hellokoding/tutorials/web/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/static/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/static/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/templates/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springboot-security-login-thymeleaf/src/main/resources/templates/welcome_blp.html" afterDir="false" />
-    </list>
+    <list default="true" id="07173e23-5439-4dc3-992c-5e49f714f92a" name="Default Changelist" comment="Aula dia 17/12/2020" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,6 +113,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
   <component name="RunManager" selected="Kotlin.NullSafeKt">
     <configuration name="CondicionalDeFluxoForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
@@ -204,6 +186,14 @@
       <option name="presentableId" value="Default" />
       <updated>1608237294540</updated>
     </task>
+    <task id="LOCAL-00001" summary="Aula dia 17/12/2020">
+      <created>1608249437252</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608249437252</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -218,22 +208,26 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Aula dia 17/12/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aula dia 17/12/2020" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1606" height="228" key="GridCell.Tab.0.bottom" timestamp="1608249087663">
+    <state width="1606" height="228" key="GridCell.Tab.0.bottom" timestamp="1608249590078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249087663" />
-    <state width="1606" height="228" key="GridCell.Tab.0.center" timestamp="1608249087663">
+    <state width="1606" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
+    <state width="1606" height="228" key="GridCell.Tab.0.center" timestamp="1608249590078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249087663" />
-    <state width="1606" height="228" key="GridCell.Tab.0.left" timestamp="1608249087663">
+    <state width="1606" height="228" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
+    <state width="1606" height="228" key="GridCell.Tab.0.left" timestamp="1608249590078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249087663" />
-    <state width="1606" height="228" key="GridCell.Tab.0.right" timestamp="1608249087663">
+    <state width="1606" height="228" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
+    <state width="1606" height="228" key="GridCell.Tab.0.right" timestamp="1608249590078">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249087663" />
+    <state width="1606" height="228" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
   </component>
 </project>
