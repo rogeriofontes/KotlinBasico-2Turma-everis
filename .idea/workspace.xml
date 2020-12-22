@@ -75,7 +75,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="07173e23-5439-4dc3-992c-5e49f714f92a" name="Default Changelist" comment="Aula dia 17/12/2020" />
+    <list default="true" id="07173e23-5439-4dc3-992c-5e49f714f92a" name="Default Changelist" comment="Aula dia 17/12/2020">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57af5218a06d672be8e5eb9c0d984e76193167d2" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/7/57af5218a06d672be8e5eb9c0d984e76193167d2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a95d554c01ce4f915f0cef05cf5dc6d38f80e9f0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a95d554c01ce4f915f0cef05cf5dc6d38f80e9f0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,7 +109,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1lneSV4BgxQ4aCLHs7zl15JCALI" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="false" />
@@ -115,7 +121,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
   </component>
-  <component name="RunManager" selected="Kotlin.NullSafeKt">
+  <component name="RunManager" selected="Kotlin.ExtensionFunctionsKt">
     <configuration name="CondicionalDeFluxoForKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasico-2Turma-Everis1.main" />
       <option name="VM_PARAMETERS" />
@@ -129,14 +135,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ControleDeFluxoWhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtensionFunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="KotlinBasico-2Turma-Everis1.main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="ControleDeFluxoWhileKt" />
+      <option name="MAIN_CLASS_NAME" value="ExtensionFunctionsKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuncionarioKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="KotlinBasico-2Turma-Everis1.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="FuncionarioKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -170,10 +189,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ExtensionFunctionsKt" />
+        <item itemvalue="Kotlin.FuncionarioKt" />
         <item itemvalue="Kotlin.NullSafeKt" />
         <item itemvalue="Kotlin.FuncoesKt" />
         <item itemvalue="Kotlin.CondicionalDeFluxoForKt" />
-        <item itemvalue="Kotlin.ControleDeFluxoWhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608249437252</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Aula dia 17/12/2020">
+      <created>1608249909933</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608249909933</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -213,21 +240,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="Aula dia 17/12/2020" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1606" height="228" key="GridCell.Tab.0.bottom" timestamp="1608249590078">
+    <state x="740" y="223" key="#com.intellij.ide.util.MemberChooser" timestamp="1608678822072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
-    <state width="1606" height="228" key="GridCell.Tab.0.center" timestamp="1608249590078">
+    <state x="740" y="223" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608678822072" />
+    <state width="1793" height="254" key="GridCell.Tab.0.bottom" timestamp="1608679134640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
-    <state width="1606" height="228" key="GridCell.Tab.0.left" timestamp="1608249590078">
+    <state width="1793" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608679134640" />
+    <state width="1793" height="254" key="GridCell.Tab.0.center" timestamp="1608679134640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
-    <state width="1606" height="228" key="GridCell.Tab.0.right" timestamp="1608249590078">
+    <state width="1793" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608679134640" />
+    <state width="1793" height="254" key="GridCell.Tab.0.left" timestamp="1608679134640">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1606" height="228" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249590078" />
+    <state width="1793" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608679134640" />
+    <state width="1793" height="254" key="GridCell.Tab.0.right" timestamp="1608679134640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1793" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608679134640" />
+    <state x="547" y="294" key="Vcs.Push.Dialog.v2" timestamp="1608249919791">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="547" y="294" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1608249919791" />
   </component>
 </project>
