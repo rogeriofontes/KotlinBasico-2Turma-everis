@@ -111,3 +111,9 @@ interface Mecanico {
 }
 
 data class Desenvolvedor(var nome: String, var matricula: Int, var tecnologia: String, var salario: Double, var experiencia: String)
+
+//-> Estrutura
+  //-> Funcionario classe Abstrata
+  //    -> Desenvolvedor(Filho de Funcionario)
+  //    -> Leader(Filho de Funcionario)
+  // -> Adicionar interfaces - (Hobby)
