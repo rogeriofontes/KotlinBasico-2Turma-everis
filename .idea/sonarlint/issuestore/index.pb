@@ -21,3 +21,9 @@ Q
 !src/main/kotlin/TipoPrinitivos.kt,a\9\a95d554c01ce4f915f0cef05cf5dc6d38f80e9f0
 K
 src/main/kotlin/NullSafe.kt,5\7\57af5218a06d672be8e5eb9c0d984e76193167d2
+U
+%src/main/kotlin/ExtensionFunctions.kt,a\7\a792e97f7ff7ac4d7df43f9f14047ca79338d5a6
+N
+src/main/kotlin/Funcionario.kt,3\4\3425c9b38dc223746c6035472aac3ea4f287b268
+P
+ src/main/kotlin/teste/Student.kt,d\d\ddc0e5004c315f83c4902854e6c8414a806189be
